@@ -1,2 +1,1 @@
 # git-guide
-## Hello Git!
